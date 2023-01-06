@@ -12,7 +12,7 @@ function App() {
   return (
     <div className="App">
       <Header />
-      <S1/>
+      <S1 default />
       <S2 />
       <S3 />
       <S4/>
