@@ -14,10 +14,10 @@ function S3() {
       </p></div>
       <div className='ProjectsLink'>
       <Row>
-        <Col><a href='https://manoelf.netlify.app' target="_blank"><div className='Project1'></div></a><p>Landing Page</p></Col>
+        <Col><a href='https://manoelf.netlify.app' target="_blank" rel='noreferrer'><div className='Project1'></div></a><p>Landing Page</p></Col>
         
-        <Col><a href='https://reactcalculatorlg.netlify.app' target="_blank"><div className='Project3'></div></a><p>React caculator</p></Col>
-        <Col><a href='https://calcjslg.netlify.app' target="_blank"><div className='Project4'></div></a><p>js calculator</p></Col>
+        <Col><a href='https://reactcalculatorlg.netlify.app' target="_blank" rel='noreferrer'><div className='Project3'></div></a><p>React caculator</p></Col>
+        <Col><a href='https://calcjslg.netlify.app' target="_blank" rel='noreferrer'><div className='Project4'></div></a><p>js calculator</p></Col>
       </Row>
       <Row>
       <Col><div className='Project2'></div><p>e-learning plataform</p></Col>
