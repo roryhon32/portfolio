@@ -1,0 +1,52 @@
+.main-content {
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  background-color: #0a151f;
+  color: white;
+  font-family: "Roboto", sans-serif;
+}
+
+.FirstImg {
+  height: 500px;
+  border-radius: 50%;
+  position: relative;
+
+  animation: updown 3s linear infinite;
+}
+@keyframes updown {
+  0% {
+    transform: translateY(-20px);
+  }
+  50% {
+    transform: translateY(20px);
+  }
+  100% {
+    transform: translateY(-20px);
+  }
+}
+
+.text {
+  text-transform: uppercase;
+  letter-spacing: 5px;
+}
+
+.text p {
+  padding: 0.2em;
+}
+.button {
+  background-color: transparent;
+  border: 1px solid #fff;
+  padding: 2em;
+  letter-spacing: 5px;
+  color: #fff;
+  margin-top: 3em;
+}
+.button:hover {
+  background-color: #fff;
+  color: #0a151f;
+  transition: 0.7s ease-in;
+}
