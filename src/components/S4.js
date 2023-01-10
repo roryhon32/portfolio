@@ -30,20 +30,20 @@ export default function ContactUs() {
                     <div className="row pt-5 mx-auto">
                         
                         <div className="col-lg-8 col-sm-12 form-group mx-auto">
-                            <label>Nome</label>
-                            <input type="text" autoFocus className="form-control" required placeholder="Nome" name="name"/>
+                            <label>Name</label>
+                            <input type="text" autoFocus className="form-control" required placeholder="Name" name="name"/>
                         </div>
                         <div className="col-lg-8 col-sm-12 form-group pt-1 mx-auto">
                         <label>Email</label>
-                            <input type="email" className="form-control" required placeholder="Seu email" name="email"/>
+                            <input type="email" className="form-control" required placeholder="your e-mail" name="email"/>
                         </div>
 
                         <div className="col-lg-8 col-sm-12 form-group pt-1 mx-auto">
-                        <label>Mensagem</label>
-                            <textarea className="form-control" id="" cols="30" rows="8" required placeholder="Sua mensagem" name="message"></textarea>
+                        <label>message</label>
+                            <textarea className="form-control" id="" cols="30" rows="8" required placeholder="your message" name="message"></textarea>
                         </div>
                         <div className="col-lg-8 col-sm-12 pt-3 mx-auto">
-                            <input type="submit" className="btn btn-info" value="Enviar mensagem"></input>
+                            <input type="submit" className="btn btn-info" value="Contact me"></input>
                         </div>
                     </div>
                 </form>
