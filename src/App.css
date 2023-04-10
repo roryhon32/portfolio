@@ -225,6 +225,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
  heigth:auto;
   background-color:#0a151f ;
   width: 100vw;
+    overflow:hidden;
 
  
 }
