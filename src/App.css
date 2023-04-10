@@ -276,7 +276,8 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   padding-top: 100px;
 }
 .contact{
-  height: 90vh;
+ heigth:auto;
+  width:100vw;
  
 }
 label{
