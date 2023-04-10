@@ -222,10 +222,10 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   margin: 14px 0 75px 0;
 }
 .project {
- heigth:auto;
+  height:auto;
   background-color:#0a151f ;
   width: 100vw;
-    overflow:hidden;
+  overflow:hidden;
 
  
 }
@@ -250,8 +250,8 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 .Project1,
 .Project3,
 .Project2,.Project4,.Project5{
-  height: 200px;
-  width: 400px;
+  height: 150px;
+  width: 350px;
   border-radius: 20px;
   cursor: pointer;
   background-size: cover;
