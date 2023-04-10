@@ -3,7 +3,7 @@ import React from "react";
 function S3() {
   return (
     <div className="project">
-      {" "}
+      
       <div className="conteiner">
         <div className="projects" id="projects">
           <div className="center">
@@ -23,7 +23,7 @@ function S3() {
             </div>
 
             <div className="p2">
-              {" "}
+             
               <a
                 href="https://reactcalculatorlg.netlify.app"
                 target="_blank"
@@ -34,7 +34,7 @@ function S3() {
               <p>React caculator</p>
             </div>
             <div className="p3">
-              {" "}
+            
               <a
                 href="https://calcjslg.netlify.app"
                 target="_blank"
