@@ -266,7 +266,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   display: flex;
  
   height:100%;
-  justify-content: space-around;
+  justify-content: space-between;
   flex-wrap: wrap;
 }
 .project div {
