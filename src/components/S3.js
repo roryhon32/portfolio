@@ -10,7 +10,7 @@ function S3() {
             <h3>Projects</h3>
             <p>Projects that i worked</p>
           </div>
-          <div className="ProjectsLink">
+          <div className="ProjectsLink container">
             <div className="p1">
               <a
                 href="https://manoelf.netlify.app"
